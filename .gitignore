@@ -1,0 +1,34 @@
+# Colab runtime artifacts
+/content/
+*.pyc
+__pycache__/
+
+# Vector store (large binary)
+vector_store/
+*.faiss
+
+# Uploaded documents
+uploads/
+
+# Session / feedback data
+sessions/
+feedback/
+
+# Knowledge graph persisted data
+knowledge_graph/*.json
+
+# ngrok token (never commit)
+.ngrok*
+
+# Python env
+.env
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
