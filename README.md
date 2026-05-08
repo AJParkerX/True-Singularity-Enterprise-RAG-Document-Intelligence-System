@@ -1,4 +1,4 @@
-# 🌑 True Vision Singularity RAG
+# 🌑 Singularity
 
 > **Production-grade, multi-modal RAG system running entirely on Google Colab T4 GPU — no paid infra, no cloud APIs, no compromises.**
 
